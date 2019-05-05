@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.lat3_akb2_10116081_asfia">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name=".LoadFragment"></activity>
+        <activity android:name=".HomeFragment" />
+        <activity android:name=".fregmantprofile" />
+        <activity android:name=".fregmantmusic" />
+        <activity android:name=".fragmentgallery" />
+        <activity android:name=".fragmentdaily" />
+        <activity android:name=".fragmenthome" />
+        <activity android:name=".ButtomNavigation" />
+        <activity android:name=".WelcomeActivity" />
+        <activity android:name=".slide3" />
+        <activity android:name=".slide2" />
+        <activity android:name=".slide1" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".walktrough" />
+    </application>
+
+</manifest>

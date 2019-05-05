@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LAT3_AKB2_10116081_ASFIA</string>
+    <string name="next">LANJUT</string>
+    <string name="skip">LEWATI</string>
+    <string name="start">MULAI</string>
+
+    <string name="slide_1_title">ME</string>
+    <string name="slide_1_desc">Asfia Hayyinaz Zahro </string>
+
+    <string name="slide_2_title">DAILY ACTIVITY</string>
+    <string name="slide_2_desc">MAKAN, TIDUR, WATCH MOVIE :)</string>
+
+    <string name="slide_3_title">PLAYLIST</string>
+    <string name="slide_3_desc">EXO : Sing for you, Wait, Smile On My Face, What If,dll. ONE DIRECTION : Night Changes, I Wish, dll. </string>
+    <string name="home">Home</string>
+    <string name="dailyactivity">Daily Activity</string>
+    <string name="gallery">Gallery</string>
+    <string name="music">Music</string>
+    <string name="profile">Profile</string>
+
+</resources>
